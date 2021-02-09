@@ -1,5 +1,5 @@
 # Alice-in-C
-A terminal-based board-game developed with C. Built in 2016, for the programming principles module at university.
+A terminal-based board-game developed with C. 
 
 To try out this program, simply download the code and open it on your preffered IDE. The game can be run in your IDE's terminal. 
 
